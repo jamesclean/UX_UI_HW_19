@@ -61,14 +61,20 @@ body {
 
 .caseStudyTwo{
   background: url("../images/case_study_two.png");
+  height: 444px;
+  width: 632px;  
 }
 
 .caseStudyThree{
   background: url("../images/case_study_three.png");
+  height: 444px;
+  width: 632px;  
 }
 
 .caseStudyFour{
   background: url("../images/case_study_four.png");
+  height: 444px;
+  width: 632px;  
 }
 
 
