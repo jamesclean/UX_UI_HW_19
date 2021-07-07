@@ -154,10 +154,10 @@ body {
   .main    { order: 2; }
   .aside-2 { order: 3; }
   .cta  { order: 4; }
-  .caseStudyOne {height:444px;}
+/*  .caseStudyOne {height:444px;}
   .caseStudyTwo {width:444px;}
   .caseStudyThree {width:444px;}
-  .caseStudyFour {width:444px;}
+  .caseStudyFour {width:444px;} */
 }
 
 body {
