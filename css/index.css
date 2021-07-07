@@ -54,27 +54,23 @@ body {
 }
 
 .caseStudyOne{
-  background: url("images/case_study_one.png") no-repeat fixed center;
+  background: url("../images/case_study_one.png") no-repeat fixed center;
   width: 529px;
   height: 372px;  
 }
 
 .caseStudyTwo{
-  background: url("./images/case_study_two.png");
+  background: url("../images/case_study_two.png");
   width: 529px;
   height: 372px;
 }
 
 .caseStudyThree{
-  background: url("images/case_study_three.png");
-  width: 529px;
-  height: 372px;
+  background: url("../images/case_study_three.png");
 }
 
 .caseStudyFour{
-  background: url("./images/case_study_four.png");
-  width: 529px;
-  height: 372px;
+  background: url("../images/case_study_four.png");
 }
 
 
