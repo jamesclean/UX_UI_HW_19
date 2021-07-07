@@ -55,18 +55,19 @@ body {
 
 .caseStudyOne{
   background: url("../images/case_study_one.png");
-  width: 632px;  
+  height: 444px;
 }
 
 .caseStudyOne:hover{
   background: url("../images/case_study_one_hover.png"); 
+  height: 444px;
 }
 
 .caseStudyTwo{
   background: url("../images/case_study_two.png");
   align-content: center;
   background-repeat: no-repeat;
-  width: 632px;  
+  height: 444px;  
 }
 
 .caseStudyTwo:hover{
@@ -75,7 +76,7 @@ body {
 
 .caseStudyThree{
   background: url("../images/case_study_three.png");
-  width: 632px;  
+  height: 444px; 
 }
 
 .caseStudyThree:hover{
@@ -84,7 +85,7 @@ body {
 
 .caseStudyFour{
   background: url("../images/case_study_four.png");
-  width: 632px;  
+  height: 444px; 
 }
 
 .caseStudyFour:hover{
@@ -153,10 +154,10 @@ body {
   .main    { order: 2; }
   .aside-2 { order: 3; }
   .cta  { order: 4; }
-  .caseStudyOne {width:632px;}
-  .caseStudyTwo {width:632px;}
-  .caseStudyThree {width:632px;}
-  .caseStudyFour {width:632px;}
+  .caseStudyOne {height:444px;}
+  .caseStudyTwo {width:444px;}
+  .caseStudyThree {width:444px;}
+  .caseStudyFour {width:444px;}
 }
 
 body {
