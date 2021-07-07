@@ -59,6 +59,12 @@ body {
   width: 632px;  
 }
 
+.caseStudyOne:hover{
+  background: url("../images/case_study_one_hover.png");
+  height: 444px;
+  width: 632px;  
+}
+
 .caseStudyTwo{
   background: url("../images/case_study_two.png");
   height: 444px;
