@@ -56,18 +56,17 @@ body {
 .caseStudyOne{
   background: url("../images/case_study_one.png");
   height: 444px;
+  width: 632px;  
 }
 
 .caseStudyOne:hover{
   background: url("../images/case_study_one_hover.png"); 
-  height: 444px;
 }
 
 .caseStudyTwo{
   background: url("../images/case_study_two.png");
-  align-content: center;
-  background-repeat: no-repeat;
-  height: 444px;  
+  height: 444px;
+  width: 632px;  
 }
 
 .caseStudyTwo:hover{
@@ -76,7 +75,8 @@ body {
 
 .caseStudyThree{
   background: url("../images/case_study_three.png");
-  height: 444px; 
+  height: 444px;
+  width: 632px;  
 }
 
 .caseStudyThree:hover{
@@ -85,7 +85,8 @@ body {
 
 .caseStudyFour{
   background: url("../images/case_study_four.png");
-  height: 444px; 
+  height: 444px;
+  width: 632px;  
 }
 
 .caseStudyFour:hover{
@@ -142,10 +143,10 @@ body {
 
 @media all and (min-width: 600px) {
   .aside { flex: 1 0 0; }
-  /* .caseStudyOne {width:316px;}
-  .caseStudyTwo {width:316px;}
-  .caseStudyThree {width:316px;}
-  .caseStudyFour {width:316px;} */
+  /* .caseStudyOne {width:264px;}
+  .caseStudyTwo {width:264px;}
+  .caseStudyThree {width:264px;}
+  .caseStudyFour {width:264px;} */
 }
 
 @media all and (min-width: 800px) {
@@ -154,10 +155,10 @@ body {
   .main    { order: 2; }
   .aside-2 { order: 3; }
   .cta  { order: 4; }
-/*  .caseStudyOne {height:444px;}
-  .caseStudyTwo {width:444px;}
-  .caseStudyThree {width:444px;}
-  .caseStudyFour {width:444px;} */
+  .caseStudyOne {width:528px;}
+  .caseStudyTwo {width:528px;}
+  .caseStudyThree {width:528px;}
+  .caseStudyFour {width:528px;}
 }
 
 body {
@@ -192,5 +193,3 @@ body {
     margin: 0.5rem;
     font-size: 1.25rem;
   }
-
- 
