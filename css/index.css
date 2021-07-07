@@ -54,7 +54,9 @@ body {
 }
 
 .caseStudyOne{
-  background: url("../images/case_study_one.png");  
+  background: url("../images/case_study_one.png");
+  height: 444px;
+  width: 632px;  
 }
 
 .caseStudyTwo{
