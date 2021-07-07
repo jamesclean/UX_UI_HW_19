@@ -7,11 +7,12 @@
 
     <title>James McPherson - Portfolio</title>
     <link rel="stylesheet" href="./css/index.css">
+    <link href="./style/maki.css" type="text/css" rel="stylesheet">
     </head>
 </html>
 
 <body>
-    <div class="wrapper">
+    <div data-maki="scroll-in" class="wrapper">
         <header class="header">
             <ul class="navigation">
                 <a href="/pdf/resume.pdf">Work</a>
@@ -39,7 +40,7 @@
         </cta>
       </div>
 
-<section class="skills">
+<section data-maki="scroll-in" class="skills">
   <h1>Skills</h1>
     <div class="flexContainer">
       <p>
@@ -55,7 +56,7 @@
   </section>
 
 
-<section class="work">
+<section data-maki="scroll-in" class ="work">
   <h1>Work</h1>
     <div class="workGrid">
 
@@ -78,5 +79,7 @@
 </body>
 
 <script src="js/index.js"></script>
+<script src="./scripts/maki.js"></script>
+<script>maki()</script>
 
 </html>
