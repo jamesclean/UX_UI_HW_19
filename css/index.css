@@ -65,6 +65,8 @@ body {
 
 .caseStudyTwo{
   background: url("../images/case_study_two.png");
+  align-content: center;
+  background-repeat: no-repeat;
   height: 444px;
   width: 632px;  
 }
