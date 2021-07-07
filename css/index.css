@@ -177,6 +177,10 @@ body {
   text-decoration: none;
 }
 
+.btn {
+  display: none;
+}
+
 .btn:hover {
   /*color:#E867FF;*/
   background: #f5d0fc;
