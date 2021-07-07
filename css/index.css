@@ -71,14 +71,32 @@ body {
   width: 632px;  
 }
 
+.caseStudyTwo:hover{
+  background: url("../images/case_study_two_hover.png");
+  height: 444px;
+  width: 632px;  
+}
+
 .caseStudyThree{
   background: url("../images/case_study_three.png");
   height: 444px;
   width: 632px;  
 }
 
+.caseStudyThree:hover{
+  background: url("../images/case_study_three_hover.png");
+  height: 444px;
+  width: 632px;  
+}
+
 .caseStudyFour{
   background: url("../images/case_study_four.png");
+  height: 444px;
+  width: 632px;  
+}
+
+.caseStudyFour:hover{
+  background: url("../images/case_study_four_hover.png");
   height: 444px;
   width: 632px;  
 }
