@@ -125,6 +125,7 @@ body {
   justify-content: flex-end;
   flex-direction: row;
   color: #424242;
+  padding-right:50px;
 }
 
 .cta {
@@ -136,6 +137,7 @@ body {
 .main {
   text-align: left;
   background: white;
+  padding-left: 50px;
 }
 
 .aside-1 {
@@ -167,7 +169,6 @@ body {
 }
 
 body {
-  padding: 2em; 
 }
 
 .btn {
@@ -197,4 +198,12 @@ body {
   .ft-social-list li {
     margin: 0.5rem;
     font-size: 1.25rem;
+  }
+
+  footer{
+    padding-top: 30px;
+    text-align: center;
+    margin-top:80px;
+    height:80px;
+    background-color: #F7F7F7;
   }
