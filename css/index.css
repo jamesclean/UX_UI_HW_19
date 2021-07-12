@@ -25,9 +25,11 @@ h1{
   font-size:3rem;
   font-weight: 400;
   line-height: 3rem;
+  color:#424242;
 }
 h3{
   font-weight: 100;
+  color:#424242;
 }
 p{
    font-size:.85rem;
